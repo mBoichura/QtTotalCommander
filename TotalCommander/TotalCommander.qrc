@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file>resources/commander_one_macos_bigsur_icon_190276.ico</file>
+    </qresource>
+</RCC>
