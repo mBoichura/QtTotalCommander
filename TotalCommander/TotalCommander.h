@@ -16,4 +16,5 @@ private:
 
 private slots:
     void on_pbOK_clicked();
+    void on_qbbOkCancel_clicked(QAbstractButton* button);
 };

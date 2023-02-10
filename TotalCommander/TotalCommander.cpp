@@ -30,3 +30,8 @@ void TotalCommander::on_pbOK_clicked()
         ui.statusBar->showMessage(name3);
     }
 }
+
+void TotalCommander::on_qbbOkCancel_clicked(QAbstractButton* button)
+{
+    ui.statusBar->showMessage(button->text());
+}
